@@ -1,4 +1,4 @@
-<div align="center">
+<!--<div align="center">
     <img src=".github/assets/manager-preview.png" alt="Aliucord Manager preview" />
     <h1>Aliucord Manager</h1>
     <p>The new method to install Aliucord, in a user-friendly way.</p>
@@ -10,8 +10,9 @@
 ![Code Size](https://img.shields.io/github/languages/code-size/Aliucord/Manager?style=for-the-badge)
 [![GitHub License](https://img.shields.io/github/license/Aliucord/Manager?style=for-the-badge&color=007ec6)](https://github.com/Aliucord/Manager/blob/main/LICENSE)
 
-</div>
-
+</div>-->
+    <h1>Manager</h1>
+bored too lazy to change referencejndssss
 ## Prerequisites
 
 Supported Android versions:
